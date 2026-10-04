@@ -9,3 +9,5 @@ pip install -r requirements.txt
 ## usage
 
 The tool caches responses in ~/.cache/valorant-rank-checker/ to avoid hammering the API. Delete that directory if you want fresh data.
+
+<!-- refreshed: 2026-10-04 -->
